@@ -36,4 +36,3 @@ print(to_split)
 #joinは与えられた文字にしたかってリストを結合していく
 x = '$$$'.join(to_split)
 print(x)
-
